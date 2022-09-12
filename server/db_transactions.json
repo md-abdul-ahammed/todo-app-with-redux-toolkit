@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "name": "Monthly Salary",
+      "type": "income",
+      "amount": 120000,
+      "id": 1
+    },
+    {
+      "name": "Home Cost",
+      "type": "expense",
+      "amount": 50000,
+      "id": 2
+    },
+    {
+      "name": "My family cost",
+      "type": "expense",
+      "amount": 8000,
+      "id": 3
+    },
+    {
+      "name": "My outsource Income",
+      "type": "income",
+      "amount": 2000,
+      "id": 4
+    },
+    {
+      "name": "My Home Rent",
+      "type": "income",
+      "amount": 2000,
+      "id": 5
+    },
+    {
+      "name": "My health Cost",
+      "type": "expense",
+      "amount": 80000,
+      "id": 6
+    },
+    {
+      "name": "another cost",
+      "type": "expense",
+      "amount": 1010,
+      "id": 7
+    },
+    {
+      "name": "income another way",
+      "type": "income",
+      "amount": 50000,
+      "id": 9
+    },
+    {
+      "name": "watch",
+      "type": "expense",
+      "amount": 200,
+      "id": 11
+    },
+    {
+      "name": "Rocket",
+      "type": "expense",
+      "amount": 10000,
+      "id": 12
+    },
+    {
+      "name": "Laptop",
+      "type": "expense",
+      "amount": 500,
+      "id": 13
+    },
+    {
+      "name": "Mobile Iphone",
+      "type": "expense",
+      "amount": 12000,
+      "id": 14
+    }
+  ]
+}
